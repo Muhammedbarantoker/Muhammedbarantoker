@@ -1,4 +1,3 @@
-## Hi there 👋
 Hi my name is Muhammed Baran  
 My journey into software development was not something I planned it was something life steered me toward and it turned out to be the best direction I could take
 
